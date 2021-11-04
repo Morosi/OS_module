@@ -1,2 +1,5 @@
 here we go again 
  writing lines of code and hoping they make sense
+working during the witching hours and starting to build a little muscle memory
+
+git pull and push.
