@@ -8,7 +8,7 @@ LETTERS_LIST = ['a', 'b', 'c', 'd']
 
 fileHandle = openFileForReading(FILE_PATH)
 titleText = ReadALine(fileHandle)
-
+#what is this?
 nQuestions = ReadALine(fileHandle)
 nQuestions = int(nQuestions)
 
